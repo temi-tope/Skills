@@ -12,5 +12,10 @@
 	<classpathentry kind="lib" path="C:/Users/Ogungbesan Temitope/Downloads/jar_files/mysql-connector-java-8.0.28.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Ogungbesan Temitope/Downloads/jar_files/protobuf-java-3.11.4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Ogungbesan Temitope/Downloads/opencsv-5.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ogungbesan Temitope/Downloads/jersey-test-framework-core-1.8.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jersey-test-framework-core-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ogungbesan Temitope/Downloads/jar_files (1)/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ogungbesan Temitope/Downloads/jar_files (1)/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ogungbesan Temitope/Downloads/jersey-test-framework-core-2.13.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
